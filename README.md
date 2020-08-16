@@ -1,2 +1,2 @@
 # Tweetbot
-Twitter bot to tweet every day from a provided file with tweets
+Twitter bot to tweet once per day from a provided file
